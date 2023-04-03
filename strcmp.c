@@ -15,7 +15,7 @@ int main(){
     } else {
         printf("Los strings son diferentes\n");
         strcat(str1, str2);
-        printf("Al unirlos forman: %s", str1);
+        printf("Al unirlos forman: %s\n", str1);
     }
 
     return 0;
